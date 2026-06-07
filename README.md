@@ -10,7 +10,7 @@
 
 | | Link |
 |---|---|
-| 🌐 Landing Page | Deployed on Vercel |https://attendance-landing-page-two.vercel.app/
+| 🌐 Landing Page | (https://attendance-landing-page-two.vercel.app/)|
 | 🤖 Main App | [attendance-snap-ai.streamlit.app](https://attendance-snap-ai.streamlit.app/) |
 
 ---
